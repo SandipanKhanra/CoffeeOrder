@@ -1,0 +1,21 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Coffee Order</string>
+    <!--Header title -->
+    <string name="toppings">Toppings</string>
+
+    <string name="input_hint">Enter Your Name</string>
+<!--    Item list-->
+    <string name="item1">Whipped Cream</string>
+    <string name="item2">Chocolate</string>
+
+    
+    <string name="quantity">Quantity</string>
+    <string name="quantity_text">2</string>
+    <string name="button_order">Order</string>
+
+<!--    Name for the order summary. It will be shown in the format Name: Amy.-->
+<!--    Where Amy is the user's name-->
+    <string name="order_summary_name">Name: <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="thank_you">\nThank You!</string>
+
+</resources>
